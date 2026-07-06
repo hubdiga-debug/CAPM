@@ -31,7 +31,7 @@ sensitivity been stable or has it shifted meaningfully in the last N years?
 
 ## Findings
 > Fill in after running the analysis. Example structure:
-- Full-period beta: **[1.105]** (statistically significant at [X]% level, R² = [0.474])
+- The full-period beta is **1.105**, which is statistically significant at the **99%** level (p < 0.01), with the market explaining **47.4%** of the stock's variance (R² = **0.474**).
 - Rolling beta ranged from **[0.65]** to **[1.4]** between [Jan 2018] and [Jan 2022]
 - Notable regime shift observed:
 
