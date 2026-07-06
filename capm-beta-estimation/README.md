@@ -5,11 +5,11 @@ Systematic (market) risk is one of the first things a risk analyst measures for 
 This project estimates a stock's **beta** relative to the market using CAPM, and — more importantly —
 tracks how that beta *changes over time*, since real portfolio risk is never static.
 
-**Risk question being answered:** How sensitive is [TICKER] to broad market moves, and has that
+**Risk question being answered:** How sensitive is [AAPL] to broad market moves, and has that
 sensitivity been stable or has it shifted meaningfully in the last N years?
 
 ## Data
-- **Stock returns:** [TICKER] daily/weekly adjusted close prices via `yfinance`
+- **Stock returns:** [AAPL] daily/weekly adjusted close prices via `yfinance`
 - **Market benchmark:** S&P 500 (^GSPC) via `yfinance`
 - **Period:** [e.g., 2015–2025]
 - **Frequency:** Weekly returns (reduces noise vs. daily, still enough data points)
