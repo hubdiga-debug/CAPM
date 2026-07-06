@@ -44,7 +44,7 @@ def build_dataset(stock_ticker: str, market_ticker: str, start: str, end: str, f
 
 
 if __name__ == "__main__":
-    STOCK = "AAPL"       # change to your chosen ticker
+    STOCK = "AAPL"       # ticker
     MARKET = "^GSPC"     # S&P 500
     START = "2015-01-01"
     END = "2025-01-01"
