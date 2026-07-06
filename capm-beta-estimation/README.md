@@ -34,13 +34,21 @@ sensitivity been stable or has it shifted meaningfully in the last N years?
 - Full-period beta: **[1.105]** (statistically significant at [X]% level, R² = [0.474])
 - Rolling beta ranged from **[0.65]** to **[1.4]** between [Jan 2018] and [Jan 2022]
 - Notable regime shift observed:
+
 Analysis of Major Beta Swings (2016–2025)
+
 The variations you observed are typically driven by a mix of macroeconomic shifts and Apple-specific corporate events:
+
 Oct 2016 (1.45 Peak): This high beta coincided with the launch of the iPhone 7 and recovery from the 2015-16 global growth scare. Higher beta here reflected aggressive growth sentiment as Apple integrated more deeply into the broader tech rally.
+
 Jan 2018 (0.65 Trough): Apple became significantly "less risky" than the market. This low point followed the stable iPhone X launch and massive tax reform benefits, positioning it as a safe-haven "cash cow" during early 2018 market jitters.
+
 Jan 2020 – Jan 2022 (1.42 Highs): These peaks align with the "Work from Home" tech boom. As Apple's market cap surged toward $3 trillion, its correlation with the S&P 500 intensified, causing it to move more aggressively in tandem with (or ahead of) the broader index.
+
 March – June 2020 (1.05 to 0.95 Drop): During the initial COVID-19 crash, Apple’s beta briefly dropped as investors treated its massive cash reserves as a defensive buffer against more vulnerable sectors.
+
 Sept/Oct 2023 (1.4 High): This spike likely reflected market anxiety over interest rate hikes and specific supply chain concerns in China, which made Apple's stock more sensitive to global macro news than usual.
+
 Jan 2025 (0.85 Low): A lower beta in early 2025 suggests a period of relative stability or "sideways" trading where Apple decoupled from broader market volatility, perhaps as investors awaited the impact of AI-integrated service
 
 ## So What? (Risk Relevance)
