@@ -53,6 +53,6 @@ jupyter notebook notebooks/capm_analysis.ipynb
 ```
 
 ## Next Steps / Extensions
-- Extend to multi-factor (Fama-French) — see companion project
+- Extend to multi-factor (Fama-French) —> see companion project
 - Add a second stock for comparison (e.g., high-beta tech vs. low-beta utility)
 - Test beta stability formally (Chow test at suspected regime-shift points)
