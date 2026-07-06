@@ -31,7 +31,7 @@ sensitivity been stable or has it shifted meaningfully in the last N years?
 
 ## Findings
 > Fill in after running the analysis. Example structure:
-- Full-period beta: **[value]** (statistically significant at [X]% level, R² = [value])
+- Full-period beta: **[1.105]** (statistically significant at [X]% level, R² = [0.474])
 - Rolling beta ranged from **[low]** to **[high]** between [date] and [date]
 - Notable regime shift observed around [event, e.g., March 2020 / rate hike cycle 2022] —
   beta rose/fell from X to Y, suggesting [interpretation]
